@@ -1,0 +1,11 @@
+
+ * AI websites:
+ * GREAT= http://cowboyprogramming.com/2007/01/04/programming-poker-ai/
+ * http://www.texas-hold-em.mn/strategy.htm
+ * http://www.cardplayer.com/poker_odds/texas_holdem
+ * http://en.wikipedia.org/wiki/Poker_probability_(Texas_hold_'em)
+ * http://www.texasholdemcoach.com/default.aspx
+ * http://www.informit.com/articles/article.aspx?p=415188
+ * http://www.calculatem.com/faq.html
+ * http://www.tightpoker.com/poker_odds.html
+ *
